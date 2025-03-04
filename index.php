@@ -174,56 +174,18 @@
                 </div>
             </div>
             <!-- END ABOUT PART -->
-
+            
             <!-- AWARDS -->
             <div class="award-sliders">
-                <h2>Recognizing Our Stars</h2>
-                <hr class="award-sliders-divider">
 
-                <ul class="results">
-                    <li class="result"> 
-                        <img class="awards" src="img/Awards/1.webp" width="500" height="500" alt="">
-                    </li>
-                    <li class="result">
-                        <img class="awards" src="img/Awards/Best in Consumable Category.webp" width="500" height="500" alt="">
-                    </li>
-                    <li class="result">
-                        <img class="awards"src="img/Awards/Best in H&S Category.webp" width="500" height="500" alt="">
-                    </li>
-                    <li class="result">
-                        <img class="awards" src="img/Awards/Champion.webp" width="500" height="500" alt="">
-                    </li>
-                    <li class="result">
-                        <img class="awards" src="img/Awards/Channel Partner of the Year (2017).webp" width="500" height="500" alt="">
-                    </li>
-                    <li class="result">
-                        <img class="awards" src="img/Awards/Dealer of Excellence (2015).webp" width="500" height="500" alt="">
-                    </li>
-                    </li>
-                    <li class="result">
-                        <img class="awards" src="img/Awards/Highest Gross-Ins in (2017).webp"  width="500" height="500" alt="">
-                    </li>
-                    <li class="result">
-                        <img class="awards" src="img/Awards/OTUS COPY SYSTEM CHAMPION.webp" width="500" height="500" alt="">
-                    </li>
-                    <li class="result">
-                        <img class="awards" src="img/Awards/Partner of Excellence 1.webp" width="500" height="500" alt="">
-                    </li>
-                    <li class="result">
-                        <img class="awards" src="img/Awards/Partner of Excellence 2.webp" width="500" height="500" alt="">
-                    </li>
-                    <li class="result">
-                        <img class="awards" src="img/Awards/Partner of Excellence Platinum Category.webp" width="500" height="500" alt="">
-                    </li>
-                    <li class="result">
-                        <img class="awards" src="img/Awards/Platinum Category (2019).webp" width="500" height="500" alt="">
-                    </li>
-                    <li class="result">
-                        <img class="awards" src="img/Awards/Platinum Dealer 2016.webp" width="500" height="500" alt="">
-                    </li>
-                </ul>
+            <?php include('card\awardscard.php'); ?>
+            
+            <div class="responsive-text">
+    <p>With over <b>30 years</b> in the printer and copier industry and extensive knowledge on almost all major brands of copiers, printers, and multi-function devices, our team offers exceptional support and tailored solutions to cater to your business needs.</p>
+</div>
 
-                <p>With over <b>30 years</b> in the printer and copier industry and extensive knowledge on almost all major brands of copiers, printers, and multi function devices, our team offers exceptional support and tailored solutions to cater to your business needs.</p>
+
+
             </div>
             <!-- END AWARDS -->
             <!-- WHY CHOOSE US -->

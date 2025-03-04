@@ -28,19 +28,6 @@
                         <a class="nav-link" aria-current="page" href="index.php">Home</a>
                     </li>
 
-                    
-                    <!-- <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" role="button"  aria-expanded="false">
-                            Products & Sevices
-                        </a>
-                        
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">Copiers</a></li>
-                            <li><a class="dropdown-item" href="#">Printers</a></li>
-                            <li><hr class="dropdown-divider"></li>
-                            <li><a class="dropdown-item" href="#">Drivers</a></li>
-                        </ul>
-                    </li> -->
 
                     <div class="dropdown">
                         <button class="dropbtn active">PRODUCTS</button>
@@ -59,9 +46,6 @@
                         <a class="nav-link" href="contactus.php">Contact</a>
                     </li>
 
-                    <!-- <li class="nav-item me-3">
-                        <a class="nav-link" href="#">Support</a>
-                    </li> -->
                 </ul>
             </div>
         </div>
