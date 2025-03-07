@@ -90,7 +90,7 @@
                     </div>
                     <div class="card swiper-slide">
                         <div class="image-content">
-                            <span class="overlay" id="overlay-5"></span>
+                            <span class="overlay" id="overlay-7"></span>
 
                             <div class="card-image">
                                 <img src="card\images\Awards\Dealer of Excellence (2015).webp" alt="" class="card-img">
@@ -104,7 +104,7 @@
                     </div>
                     <div class="card swiper-slide">
                         <div class="image-content">
-                            <span class="overlay" id="overlay-5"></span>
+                            <span class="overlay" id="overlay-8"></span>
 
                             <div class="card-image">
                                 <img src="card\images\Awards\Highest Gross-Ins in (2017).webp" alt="" class="card-img">
@@ -119,7 +119,7 @@
                     </div>
                     <div class="card swiper-slide">
                         <div class="image-content">
-                            <span class="overlay" id="overlay-5"></span>
+                            <span class="overlay" id="overlay-9"></span>
 
                             <div class="card-image">
                                 <img src="card\images\Awards\OTUS COPY SYSTEM CHAMPION.webp" alt="" class="card-img">
@@ -133,7 +133,7 @@
                     </div>
                     <div class="card swiper-slide">
                         <div class="image-content">
-                            <span class="overlay" id="overlay-5"></span>
+                            <span class="overlay" id="overlay-10"></span>
 
                             <div class="card-image">
                                 <img src="card\images\Awards\Partner of Excellence 1.webp" alt="" class="card-img">
@@ -147,7 +147,7 @@
                     </div>
                     <div class="card swiper-slide">
                         <div class="image-content">
-                            <span class="overlay" id="overlay-5"></span>
+                            <span class="overlay" id="overlay-11"></span>
 
                             <div class="card-image">
                                 <img src="card\images\Awards\Partner of Excellence 2.webp" alt="" class="card-img">
@@ -161,7 +161,7 @@
                     </div>
                     <div class="card swiper-slide">
                         <div class="image-content">
-                            <span class="overlay" id="overlay-5"></span>
+                            <span class="overlay" id="overlay-12"></span>
 
                             <div class="card-image">
                                 <img src="card\images\Awards\Partner of Excellence Platinum Category.webp" alt="" class="card-img">
@@ -175,7 +175,7 @@
                     </div>
                     <div class="card swiper-slide">
                         <div class="image-content">
-                            <span class="overlay" id="overlay-5"></span>
+                            <span class="overlay" id="overlay-13"></span>
 
                             <div class="card-image">
                                 <img src="card\images\Awards\Platinum Category (2019).webp" alt="" class="card-img">
@@ -189,7 +189,7 @@
                     </div>
                     <div class="card swiper-slide">
                         <div class="image-content">
-                            <span class="overlay" id="overlay-5"></span>
+                            <span class="overlay" id="overlay-14"></span>
 
                             <div class="card-image">
                                 <img src="card\images\Awards\Platinum Dealer 2016.webp" alt="" class="card-img">
@@ -203,7 +203,7 @@
                     </div>
                     <div class="card swiper-slide">
                         <div class="image-content">
-                            <span class="overlay" id="overlay-5"></span>
+                            <span class="overlay" id="overlay-15"></span>
 
                             <div class="card-image">
                                 <img src="card\images\Awards\VSTECS.webp" alt="" class="card-img">
